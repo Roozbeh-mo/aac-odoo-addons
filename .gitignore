@@ -1,7 +1,21 @@
+
+# Python
 __pycache__/
-*.pyc
-*.pyo
-*.swp
-.DS_Store
+*.py[cod]
+*$py.class
+
+# Odoo
+*.log
+
+# IDE
 .vscode/
 .idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+*~
